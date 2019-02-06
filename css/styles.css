@@ -46,6 +46,19 @@ a:hover{
   border-color: rgb(245, 203, 167);
   background-color: rgba(244, 246, 246,0.5);
 }
+.dk img{
+  border-radius: 0 20px 20px 20px;
+  margin: 2px;
+}
+.ame{
+  border-radius: 0 40px 40px 40px;
+  margin: 5px;
+  border: 1px solid black;
+  background-color: black;
+  height: 200px;
+  width: 200px;
+
+}
 nav{
   text-align: center;
   padding: 14px;
