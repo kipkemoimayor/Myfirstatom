@@ -1,0 +1,39 @@
+*{
+  font-family: fantasy;
+
+
+}
+html{
+  background-color: rgba(10,84,100,0.6);
+  color: white;
+}
+h1{
+  color: rgb(184,76,53);
+  text-align: center;
+  text-decoration: underline;
+  z-index: 99;
+}
+h2{
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+p{
+  font-family: sans-serif;
+  font-style: Courier;
+  font-size: 19px;
+}
+ul{
+  line-height: 40px;
+}
+strong,em{
+  color:#58412677;
+  font-size: 22px;
+  padding: 14px;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color:rgb(202, 111, 30);
+}
