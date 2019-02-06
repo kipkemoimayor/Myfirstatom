@@ -22,6 +22,7 @@ p{
   font-family: sans-serif;
   font-style: Courier;
   font-size: 19px;
+  margin: 2px;
 }
 ul{
   line-height: 40px;
@@ -36,4 +37,27 @@ a{
 }
 a:hover{
   color:rgb(202, 111, 30);
+}
+.dk{
+  margin: auto;
+  width: 70%;
+  border: 1px solid gray;
+  border-radius: 20px;
+  border-color: rgb(245, 203, 167);
+  background-color: rgba(244, 246, 246,0.5);
+}
+nav{
+  text-align: center;
+  padding: 14px;
+  background-color: rgb(40, 180, 99);
+  position: relative;
+  top: -7px;
+  white-space: nowrap;
+  width:auto;
+
+}
+nav a{
+  padding: inherit;
+  background-color: rgba(185, 119, 14,0.5);
+  color: white;
 }
