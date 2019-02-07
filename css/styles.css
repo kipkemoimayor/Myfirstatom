@@ -74,3 +74,9 @@ nav a{
   background-color: rgba(185, 119, 14,0.5);
   color: white;
 }
+.head{
+  color:#154;
+}
+p.head{
+  color: red;
+}
